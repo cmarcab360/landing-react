@@ -1,12 +1,47 @@
-# React + Vite
+# 🧪 Página Web Básica con React, React Bootstrap y Tailwind CSS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este proyecto es una página web básica desarrollada con **React**, utilizando **React Bootstrap** para los componentes UI y **Tailwind CSS** para la personalización de estilos. Incluye un menú de navegación responsivo y es ideal como punto de partida para proyectos web más complejos.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Tecnologías utilizadas
 
-## Expanding the ESLint configuration
+- [React](https://reactjs.org/)
+- [React Bootstrap](https://react-bootstrap.github.io/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Vite](https://vitejs.dev/) 
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📁 Estructura del proyecto
+
+src/
+├── assets/ # Imágenes y recursos estáticos
+├── components/ # Componentes reutilizables (como Navbar)
+├── App.jsx # Componente principal
+├── main.jsx # Punto de entrada de React
+
+---
+
+## 🧩 Características
+
+- ✅ Menú de navegación responsive (versión escritorio y móvil)
+- ✅ Estilización moderna con Tailwind CSS
+- ✅ Iconos con Bootstrap Icons
+- ✅ Código limpio y modular
+
+---
+
+## 🔧 Instalación
+
+1. Clona el repositorio:
+
+git clone https://github.com/tu-usuario/nombre-del-repo.git
+
+2.Instala las dependencias:
+
+npm install
+
+3.Ejecuta el proyecto en desarrollo:
+
+npm run dev
