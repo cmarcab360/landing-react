@@ -16,10 +16,10 @@ Este proyecto es una página web básica desarrollada con **React**, utilizando 
 ## 📁 Estructura del proyecto
 
 src/
-├── assets/ # Imágenes y recursos estáticos
-├── components/ # Componentes reutilizables (como Navbar)
-├── App.jsx # Componente principal
-├── main.jsx # Punto de entrada de React
+- assets/ # Imágenes y recursos estáticos
+- components/ # Componentes reutilizables (como Navbar)
+- App.jsx # Componente principal
+- main.jsx # Punto de entrada de React
 
 ---
 
@@ -38,10 +38,10 @@ src/
 
 git clone https://github.com/tu-usuario/nombre-del-repo.git
 
-2.Instala las dependencias:
+2. Instala las dependencias:
 
 npm install
 
-3.Ejecuta el proyecto en desarrollo:
+3. Ejecuta el proyecto en desarrollo:
 
 npm run dev
